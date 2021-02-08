@@ -1,1 +1,3 @@
-# rcom_trabalho_2
+# RCOM - TP2
+
+- Grade: 16.0
