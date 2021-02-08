@@ -1,0 +1,3 @@
+./download ftp://netlab1.fe.up.pt/pub.txt
+./download ftp://anonymous:asd@netlab1.fe.up.pt/pub.txt
+./download ftp://rcom:rcom@netlab1.fe.up.pt/files/pic1.jpg
